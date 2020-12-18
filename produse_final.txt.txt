@@ -1,0 +1,228 @@
+{
+    "_id" : ObjectId("5f3522ce9fe14310f03b573e"),
+    "subcategory" : [],
+    "sold" : 0,
+    "images" : [ 
+        {
+            "public_id" : "1597317756911",
+            "url" : "http://res.cloudinary.com/dwxjsbyul/image/upload/v1597317757/1597317756911.jpg"
+        }, 
+        {
+            "public_id" : "1597317782601",
+            "url" : "http://res.cloudinary.com/dwxjsbyul/image/upload/v1597317783/1597317782601.jpg"
+        }
+    ],
+    "name" : "Rochie cu volanase pe umeri",
+    "description" : "Material: 100% VISCOZĂ\nwashing\nSPĂLĂLAŢI LA MAŞINĂ DE SPĂLAT, MAX. TEMP.30 ° C, CICLU SCURT\nbleaching\nNU FOLOSIŢI ÎNĂLBITOR\ndrying\nNU USCAŢI PRIN CENTRIFUGARE\nironing\nCĂLCAŢI LA TEMP.MAX. 110 ° C - FĂRĂ ABUR\npreservation\nNU SE CURĂŢA CHIMIC",
+    "price" : 133,
+    "category" : ObjectId("5f315e1641d2fd96cc0bb9ce"),
+    "shipping" : true,
+    "publish" : true,
+    "createdAt" : ISODate("2020-08-13T11:23:58.785Z"),
+    "updatedAt" : ISODate("2020-08-13T11:23:58.785Z"),
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("5f3523599fe14310f03b573f"),
+    "subcategory" : [],
+    "sold" : 0,
+    "images" : [ 
+        {
+            "public_id" : "1597317931854",
+            "url" : "http://res.cloudinary.com/dwxjsbyul/image/upload/v1597317932/1597317931854.jpg"
+        }, 
+        {
+            "public_id" : "1597317933863",
+            "url" : "http://res.cloudinary.com/dwxjsbyul/image/upload/v1597317934/1597317933863.jpg"
+        }
+    ],
+    "name" : "Tricou TOMMY HILFIGER pe negru",
+    "description" : "Tricou TOMMY HILFIGER pe negru\nDesign & funcționalitate\nTiv drept\nCroială dreaptă\nMonocrom\nJerseuri\nDecolteu rotund\nBroderie label\nMaterial moale\nNr. articol THS0906006000005\n\nMărime și croială\nLungimea mânecii: Mânecă sfert\nLungimea: Lungime normală\nForma potrivită: Formă îngustă\nLungime totală: 68cm\nModelul are 178cm și poartă mărimea M\n\nMaterial & îngrijire\nMaterial suprafață: 95% Bumbac, 5% Elastan\nElasticitatea: Elastic/strech",
+    "price" : 119,
+    "category" : ObjectId("5f315e1641d2fd96cc0bb9ce"),
+    "shipping" : false,
+    "publish" : true,
+    "createdAt" : ISODate("2020-08-13T11:26:17.908Z"),
+    "updatedAt" : ISODate("2020-08-13T11:26:17.908Z"),
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("5f3524079fe14310f03b5740"),
+    "subcategory" : [],
+    "sold" : 0,
+    "images" : [ 
+        {
+            "public_id" : "1597318103723",
+            "url" : "http://res.cloudinary.com/dwxjsbyul/image/upload/v1597318104/1597318103723.jpg"
+        }, 
+        {
+            "public_id" : "1597318105728",
+            "url" : "http://res.cloudinary.com/dwxjsbyul/image/upload/v1597318106/1597318105728.jpg"
+        }, 
+        {
+            "public_id" : "1597318108089",
+            "url" : "http://res.cloudinary.com/dwxjsbyul/image/upload/v1597318108/1597318108089.jpg"
+        }
+    ],
+    "name" : "Tricou cu imprimeu",
+    "description" : "COMPOZIȚIE ȘI ÎNTREȚINERE\nMaterial: 100% BUMBAC\nwashing\nSPĂLĂLAŢI LA MAŞINĂ DE SPĂLAT, MAX. TEMP.30 ° C, CICLU SCURT\nbleaching\nNU FOLOSIŢI ÎNĂLBITOR\ndrying\nNU USCAŢI PRIN CENTRIFUGARE\nironing\nCĂLCAŢI LA TEMP.MAX. 110 ° C - FĂRĂ ABUR\npreservation\nNU SE CURĂŢA CHIMIC",
+    "price" : 6,
+    "category" : ObjectId("5f315e1641d2fd96cc0bb9ce"),
+    "shipping" : true,
+    "publish" : true,
+    "createdAt" : ISODate("2020-08-13T11:29:11.022Z"),
+    "updatedAt" : ISODate("2020-08-13T11:29:11.022Z"),
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("5f3524529fe14310f03b5741"),
+    "subcategory" : [],
+    "sold" : 0,
+    "images" : [ 
+        {
+            "public_id" : "1597318188354",
+            "url" : "http://res.cloudinary.com/dwxjsbyul/image/upload/v1597318188/1597318188354.jpg"
+        }
+    ],
+    "name" : "Calculator HP Elite 8200 MT",
+    "description" : "Intel Core i5-2400 3.10GHz, 4GB DDR3, 250GB SATA,",
+    "price" : 350,
+    "category" : ObjectId("5f315dbf41d2fd96cc0bb9c9"),
+    "shipping" : false,
+    "publish" : true,
+    "createdAt" : ISODate("2020-08-13T11:30:26.537Z"),
+    "updatedAt" : ISODate("2020-08-13T11:30:26.537Z"),
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("5f352546dca8155bf0f75d90"),
+    "subcategory" : [],
+    "sold" : 0,
+    "images" : [ 
+        {
+            "public_id" : "1597318413738",
+            "url" : "http://res.cloudinary.com/dwxjsbyul/image/upload/v1597318414/1597318413738.jpg"
+        }, 
+        {
+            "public_id" : "1597318417906",
+            "url" : "http://res.cloudinary.com/dwxjsbyul/image/upload/v1597318418/1597318417906.jpg"
+        }, 
+        {
+            "public_id" : "1597318421140",
+            "url" : "http://res.cloudinary.com/dwxjsbyul/image/upload/v1597318421/1597318421140.jpg"
+        }, 
+        {
+            "public_id" : "1597318424895",
+            "url" : "http://res.cloudinary.com/dwxjsbyul/image/upload/v1597318425/1597318424895.jpg"
+        }
+    ],
+    "name" : "Adidasi Barbat Puma",
+    "description" : "Producator : Puma\nCod : PF3064/S820\n",
+    "price" : 18,
+    "category" : ObjectId("5f315e1641d2fd96cc0bb9ce"),
+    "shipping" : false,
+    "publish" : true,
+    "createdAt" : ISODate("2020-08-13T11:34:30.789Z"),
+    "updatedAt" : ISODate("2020-08-13T11:34:30.789Z"),
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("5f3525e1dca8155bf0f75d91"),
+    "subcategory" : [],
+    "sold" : 0,
+    "images" : [ 
+        {
+            "public_id" : "1597318579484",
+            "url" : "http://res.cloudinary.com/dwxjsbyul/image/upload/v1597318579/1597318579484.jpg"
+        }, 
+        {
+            "public_id" : "1597318584418",
+            "url" : "http://res.cloudinary.com/dwxjsbyul/image/upload/v1597318584/1597318584418.jpg"
+        }
+    ],
+    "name" : "Adidasi barbat Nike",
+    "description" : "Producator : Nike\nCod : PB157\nStoc : Da\nMarime: 47",
+    "price" : 77,
+    "category" : ObjectId("5f315e1641d2fd96cc0bb9ce"),
+    "shipping" : true,
+    "publish" : true,
+    "createdAt" : ISODate("2020-08-13T11:37:05.146Z"),
+    "updatedAt" : ISODate("2020-08-13T11:37:05.146Z"),
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("5f35265adca8155bf0f75d92"),
+    "subcategory" : [],
+    "sold" : 0,
+    "images" : [ 
+        {
+            "public_id" : "1597318711064",
+            "url" : "http://res.cloudinary.com/dwxjsbyul/image/upload/v1597318711/1597318711064.jpg"
+        }
+    ],
+    "name" : "Fata Perna",
+    "description" : "Culoare: multicolor",
+    "price" : 4,
+    "category" : ObjectId("5f315dd141d2fd96cc0bb9ca"),
+    "shipping" : false,
+    "publish" : true,
+    "createdAt" : ISODate("2020-08-13T11:39:06.538Z"),
+    "updatedAt" : ISODate("2020-08-13T11:39:06.538Z"),
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("5f352715dca8155bf0f75d93"),
+    "subcategory" : [],
+    "sold" : 0,
+    "images" : [ 
+        {
+            "public_id" : "1597318907473",
+            "url" : "http://res.cloudinary.com/dwxjsbyul/image/upload/v1597318907/1597318907473.jpg"
+        }
+    ],
+    "name" : "Set Lenjerie Pat",
+    "description" : "-",
+    "price" : 777,
+    "category" : ObjectId("5f315dd141d2fd96cc0bb9ca"),
+    "shipping" : false,
+    "publish" : true,
+    "createdAt" : ISODate("2020-08-13T11:42:13.504Z"),
+    "updatedAt" : ISODate("2020-08-13T11:42:13.504Z"),
+    "__v" : 0
+}
+
+
+{
+    "_id" : ObjectId("5f3527a2dca8155bf0f75d94"),
+    "subcategory" : [],
+    "sold" : 0,
+    "images" : [ 
+        {
+            "public_id" : "1597319039982",
+            "url" : "http://res.cloudinary.com/dwxjsbyul/image/upload/v1597319040/1597319039982.jpg"
+        }
+    ],
+    "name" : "Sacou Baiat",
+    "description" : "-",
+    "price" : 5555,
+    "category" : ObjectId("5f315ddd41d2fd96cc0bb9cb"),
+    "shipping" : true,
+    "publish" : true,
+    "createdAt" : ISODate("2020-08-13T11:44:34.118Z"),
+    "updatedAt" : ISODate("2020-08-13T11:44:34.118Z"),
+    "__v" : 0
+}

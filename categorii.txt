@@ -1,0 +1,115 @@
+{
+    "_id" : ObjectId("5f315d8541d2fd96cc0bb9c7"),
+    "images" : [],
+    "subcategory" : [ 
+        "Autoturisme", 
+        "Piese - Accesorii", 
+        "Autoutilitare", 
+        " Vehicule pentru dezmembrare", 
+        " Motociclete - Scutere - ATV"
+    ],
+    "name" : "Auto, Moto si ambarcatiuni",
+    "createdAt" : ISODate("2020-08-10T14:45:25.722Z"),
+    "updatedAt" : ISODate("2020-08-10T14:55:31.120Z"),
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("5f315dbf41d2fd96cc0bb9c9"),
+    "images" : [],
+    "subcategory" : [ 
+        "Telefoane", 
+        "Electrocasnice", 
+        "GPS si sisteme de navigatie", 
+        " Accesorii Telefoane - Tablete", 
+        "Tablete - eReadere", 
+        "Laptop – Calculator", 
+        " Aparate Foto - Camere Video", 
+        "Jocuri - Console", 
+        "Alte aparate electronice"
+    ],
+    "name" : "Electronice si electrocasnice",
+    "createdAt" : ISODate("2020-08-10T14:46:23.585Z"),
+    "updatedAt" : ISODate("2020-08-10T14:54:49.304Z"),
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("5f315dd141d2fd96cc0bb9ca"),
+    "images" : [],
+    "subcategory" : [ 
+        "Unelte - Scule - Feronerie", 
+        "Mobila - Decoratiuni", 
+        "Gradina"
+    ],
+    "name" : "Casa si gradina",
+    "createdAt" : ISODate("2020-08-10T14:46:41.959Z"),
+    "updatedAt" : ISODate("2020-08-10T14:53:49.452Z"),
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("5f315ddd41d2fd96cc0bb9cb"),
+    "images" : [],
+    "subcategory" : [ 
+        "Haine - Incaltaminte copii si gravide", 
+        "Articole scolare - papetarie", 
+        "Alte produse copii", 
+        "Camera copilului"
+    ],
+    "name" : "Mama si copilul",
+    "createdAt" : ISODate("2020-08-10T14:46:53.286Z"),
+    "updatedAt" : ISODate("2020-08-10T14:53:01.701Z"),
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("5f315dea41d2fd96cc0bb9cc"),
+    "images" : [],
+    "subcategory" : [ 
+        "Baseball", 
+        "Camping", 
+        "Fotbal", 
+        "Sporturi de iarna", 
+        "Alergare", 
+        "Golf", 
+        " Pescuit", 
+        "  Volei", 
+        "  Vanatoare"
+    ],
+    "name" : "Sport, timp liber, arta",
+    "createdAt" : ISODate("2020-08-10T14:47:06.090Z"),
+    "updatedAt" : ISODate("2020-08-10T14:51:29.464Z"),
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("5f315e0141d2fd96cc0bb9cd"),
+    "images" : [],
+    "subcategory" : [ 
+        "Utilaje agricole si industriale"
+    ],
+    "name" : "Agro si industrie",
+    "createdAt" : ISODate("2020-08-10T14:47:29.301Z"),
+    "updatedAt" : ISODate("2020-08-10T14:50:14.723Z"),
+    "__v" : 0
+}
+
+{
+    "_id" : ObjectId("5f315e1641d2fd96cc0bb9ce"),
+    "images" : [],
+    "subcategory" : [ 
+        "Haine dama", 
+        "Accesorii", 
+        "Haine - Incaltaminte copii si gravide", 
+        "Incaltaminte dama", 
+        "Bijuterii", 
+        "Incaltaminte barbati", 
+        "Cosmetice - Parfumuri", 
+        "Haine barbati"
+    ],
+    "name" : "Moda si frumusete",
+    "createdAt" : ISODate("2020-08-10T14:47:50.853Z"),
+    "updatedAt" : ISODate("2020-08-10T14:49:30.462Z"),
+    "__v" : 0
+}
